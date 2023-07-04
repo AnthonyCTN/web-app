@@ -1,6 +1,3 @@
-# web-app
-web app , ou il y a des jeux etc...
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -22,6 +19,10 @@ web app , ou il y a des jeux etc...
   
   <div class="game" onclick="window.location.href = 'trouvelenumber.html';">
     <h2>Trouve le Numéro</h2>
+  </div>
+
+  <div class="game" onclick="window.location.href = 'promotion.html';">
+    <h2>Calcul %</h2>
   </div>
   
   <div class="game" onclick="window.location.href = 'shifoumie.html';">
