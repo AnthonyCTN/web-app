@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Application</title>
+    <title>Document</title>
 </head>
 <body>
     <nav>
@@ -22,12 +22,19 @@
   </div>
 
   <div class="game" onclick="window.location.href = 'promotion.html';">
-    <h2>Calcul %</h2>
+    <h2>Réduction %</h2>
   </div>
+  
+  <div class="game" onclick="window.location.href = 'aleatoire.html';">
+    <h2>Aléatoire</h2>
+  </div>
+
   
   <div class="game" onclick="window.location.href = 'shifoumie.html';">
     <h2>Chifoumi</h2>
   </div>
+
+
   
   <div class="game" onclick="window.location.href = 'nombrepremier.html';">
     <h2>Nombre Premier</h2>
